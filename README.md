@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik6941&label=Profile%20views&color=0e75b6&style=flat" alt="satwik6941" /> </p>
 
-- 🌱 I’m currently learning **Android Development using Kotlin and Jetpack Compose**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📝 I regularly write articles on [satwiksivakoti@substack.com](satwiksivakoti@substack.com)
 
