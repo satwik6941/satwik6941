@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 📝 I regularly write articles on [satwiksivakoti@substack.com](satwiksivakoti@substack.com)
+- 📝 I regularly write articles on [My Blog Space](https://satwiksivakoti.substack.com/)
 
 - 📫 How to reach me **sivakotisatwik2006@outlook.com**
 
