@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
+- 💪 Building a portfolio website [Portfolio](https://satwiksivakoti.netlify.app/)
+
 - 📝 I regularly write articles on [My Blog Space](https://satwiksivakoti.substack.com/)
 
 - 📫 How to reach me **sivakotisatwik2006@outlook.com**
