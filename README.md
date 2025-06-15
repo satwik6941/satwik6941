@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **Technology**
 
-- ⚡ Fun fact **I love to play mobile games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
