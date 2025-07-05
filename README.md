@@ -7,8 +7,6 @@
 
 - 💪 Building a portfolio website [Portfolio](https://satwiksivakoti.netlify.app/)
 
-- 📝 I write articles on [My Blog Space](https://satwiksivakoti.substack.com/)
-
 - 📫 How to reach me **sivakotisatwik2006@outlook.com**
 
 - 💬 Ask me about **Technology**
