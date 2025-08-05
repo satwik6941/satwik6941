@@ -7,7 +7,7 @@
 
 - 💪 Building a portfolio website [Portfolio](https://satwiksivakoti.netlify.app/)
 
-- 📫 How to reach me **sivakotisatwik2006@outlook.com**
+- 📫 How to reach me **sivakotisatwik2006@gmail.com**
 
 - 💬 Ask me about **Technology**
 
