@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivakoti Satwik</h1>
-<h3 align="center">Robotics and Artificial Intelligence | Tech Enthusiast | 100xEngineer </h3>
+<h3 align="center"> 100xEngineer | Robotics and Artificial Intelligence | Tech Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik6941&label=Profile%20views&color=0e75b6&style=flat" alt="satwik6941" /> </p>
 
