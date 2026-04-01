@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💪 Building a portfolio website [Portfolio](https://satwiksivakoti.netlify.app/)
+- 💪 My portfolio website [Portfolio](https://satwksivakoti.vercel.app/)
 
 - 📫 How to reach me **sivakotisatwik2006@gmail.com**
 
-- 💬 Ask me about **Technology**
+- 💬 Ask me about **Technology and AI**
 
 
 <h3 align="left">Connect with me:</h3>
