@@ -13,10 +13,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/satwik_6941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satwik_6941" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/satwik-sivakoti-b57449288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/satwik-sivakoti-b57449288" height="30" width="40" /></a>
-</p>
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td align="center"><a href="https://twitter.com/satwik_6941" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30"/><br/></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/satwik-sivakoti-b57449288" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/><br/></a></td>
+</tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <table border="0" cellspacing="0" cellpadding="5">
