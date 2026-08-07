@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I%27m%20Satwik%20Sivakoti%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=36&desc=GenAI%20Developer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20LLM%20Engineering&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I%27m%20Satwik%20Sivakoti%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=36&desc=GenAI%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20LLM%20Engineering&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=8E75B2&center=true&vCenter=true&width=820&lines=Building+with+Claude%2C+GPT%2C+Gemini+%26+Mistral;Designing+Multi-Agent+Systems+with+CrewAI+%2B+Google+ADK;Shipping+RAG+Pipelines%2C+Tool-Use+Agents+%26+Copilots;Engineer+in+Residence+%40+100xEngineers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=8E75B2&center=true&vCenter=true&width=820&lines=Building+with+Claude%2C+GPT%2C+Gemini;Designing+Multi-Agent+Systems+with+CrewAI+%2B+Google+ADK;Shipping+GraphRAG+Pipelines%2C+MCP+Servers+%26+Agentic+Tools;Engineer+in+Residence+%40+100xEngineers" alt="Typing SVG" />
 
 <br/>
 
@@ -22,28 +22,24 @@
 
 ## ⚡ About Me
 
-I'm a **GenAI Developer & Robotics/AI undergrad** (Amrita Vishwa Vidyapeetham) currently working as an **Engineer in Residence at 100xEngineers** and an **AI Automation Trainee at Walnut Folks Group**. I build systems that sit on top of LLMs — agents that use tools, pipelines that retrieve and reason, and copilots that actually ship.
+I'm a **Generative AI Engineer** and Robotics & AI undergrad (B.Tech, Amrita Vishwa Vidyapeetham, Bengaluru — expected May 2027), currently working as **Engineer in Residence at 100xEngineers**, guiding 300+ developers on agentic frameworks and LLM APIs, and as a **Web Development & AI Automation Trainee at Walnut Folks Group**. I build with LLMs and agentic frameworks — GraphRAG pipelines, multi-agent research systems, and MCP servers that actually ship to production.
+
+- 💬 Ask me about **agentic architecture, GraphRAG, MCP servers, or prompt/context engineering**
+- 📫 Reach me at **sivakotisatwik2006@gmail.com**
 
 ```yaml
-role: GenAI Developer
-focus: [LLM APIs, Agentic Frameworks, RAG, Tool-Use Agents, Model Fine-tuning]
-currently_building: SLM from scratch (1B-3B params) — transformers, distributed training, alignment
-currently_exploring: Claude Code + local inference (Ollama), Anthropic Messages API tool-use protocol
-mindset: ship fast, understand the internals, don't just call the API — know what it's doing
+identity: Generative AI Engineer (not classical ML/AI engineer)
+focus: [LLM Integration, Agentic Frameworks, GraphRAG, MCP Servers, Multi-Agent Systems]
+core_stack: [LangChain, LangGraph, LlamaIndex, CrewAI, Google ADK, FastAPI, Neo4j, Docker]
+currently: actively interviewing for full-time AI/Agent Engineering, FDE & AI Product roles
+mindset: ship fast, stay honest about depth, never overclaim what I haven't built
 ```
-
-- 🔭 Building **agentic products** across Anthropic, OpenAI, Gemini & Mistral APIs
-- 🧩 Comfortable moving between **CrewAI, Google ADK, MCP**, and raw API orchestration
-- 🧠 Currently writing a **transformer + SLM from scratch** — attention mechanisms, BPE tokenization, distributed training, alignment
-- 🛠️ Recently debugged a **protocol mismatch between Ollama and Anthropic's Messages API tool-use conventions**
-- 💬 Ask me about **LLM agent design, RAG architectures, or prompt/context engineering**
-- 📫 Reach me at **sivakotisatwik2006@gmail.com**
 
 <br/>
 
 ## 🧠 Tech Stack
 
-**AI / LLM Providers**
+**AI / LLM Providers & Frameworks**
 
 <div align="center">
 
@@ -103,9 +99,9 @@ mindset: ship fast, understand the internals, don't just call the API — know w
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://isocpp.org" target="_blank">
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="48" height="48"/><br/>
-<sub><b>C++</b></sub>
+<a href="https://fastapi.tiangolo.com" target="_blank">
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48"/><br/>
+<sub><b>FastAPI</b></sub>
 </a>
 </td>
 <td align="center" width="20%">
@@ -115,41 +111,9 @@ mindset: ship fast, understand the internals, don't just call the API — know w
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://fastapi.tiangolo.com" target="_blank">
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48"/><br/>
-<sub><b>FastAPI</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
 <a href="https://www.docker.com" target="_blank">
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48"/><br/>
 <sub><b>Docker</b></sub>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<a href="https://pytorch.org" target="_blank">
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" height="48"/><br/>
-<sub><b>PyTorch</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://opencv.org" target="_blank">
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="48" height="48"/><br/>
-<sub><b>OpenCV</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://www.ros.org" target="_blank">
-<img src="https://cdn.simpleicons.org/ros/22314E" width="48" height="48"/><br/>
-<sub><b>ROS</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-<img src="https://cdn.simpleicons.org/mathworks/0076A8" width="48" height="48"/><br/>
-<sub><b>MATLAB</b></sub>
 </a>
 </td>
 <td align="center" width="20%">
@@ -185,9 +149,9 @@ mindset: ship fast, understand the internals, don't just call the API — know w
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.sqlite.org" target="_blank">
-<img src="https://cdn.simpleicons.org/sqlite/003B57" width="48" height="48"/><br/>
-<sub><b>SQLite</b></sub>
+<a href="https://aws.amazon.com" target="_blank">
+<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="48" height="48"/><br/>
+<sub><b>AWS</b></sub>
 </a>
 </td>
 </tr>
@@ -196,7 +160,7 @@ mindset: ship fast, understand the internals, don't just call the API — know w
 </div>
 
 <div align="center">
-<sub>🧩 Also working with <b>CrewAI</b> · <b>Google ADK</b> · <b>Model Context Protocol (MCP)</b> · <b>LlamaIndex</b> · <b>ComfyUI</b> — no official logos yet, but very much in daily use</sub>
+<sub>🧩 Also working daily with <b>LangChain</b> · <b>LangGraph</b> · <b>LlamaIndex</b> · <b>CrewAI</b> · <b>Google ADK</b> · <b>Model Context Protocol (MCP)</b> · <b>ChromaDB</b> · <b>ComfyUI</b></sub>
 </div>
 
 <br/>
@@ -208,63 +172,59 @@ mindset: ship fast, understand the internals, don't just call the API — know w
 <td width="50%" valign="top">
 
 ### 🕸️ [BharatGraph](https://satwksivakoti.vercel.app/projects/BharatGraph)
-First GraphRAG system built for Indian languages — combines Neo4j knowledge graphs, hybrid vector + BM25 + Cypher retrieval, and an Indic-specific embedding model to answer queries in Hindi, Marathi, and Telugu.
+Multilingual GraphRAG system combining Neo4j knowledge graphs with hybrid vector + BM25 + Cypher retrieval, deployed on GCP. Benchmarked at **0.976 avg retrieval score** vs. **0.467 for IndicRAGSuite 2025** — showcased on Anthropic's BuildWithClaude.
 
-`Neo4j` `FastAPI` `TypeScript` `OpenAI` `Ollama` `JarvisLabs`
-
-[Live Demo →](https://bharat-graph-nlp.vercel.app/)
+`FastAPI` `Neo4j` `GCP` `Hybrid Retrieval` `GraphRAG`
 
 </td>
-<td width="50%" valign="top">
-
-### 🧠 [Recallr](https://satwksivakoti.vercel.app/projects/Recallr)
-Multi-module AI study companion that auto-routes queries across an Academic RAG engine, math and code assistants, live web search, and YouTube discovery — all from one CLI, with hybrid LlamaIndex + BM25 retrieval.
-
-`Python` `LlamaIndex` `RAG` `OpenAI` `Groq` `Tavily`
-
-[GitHub →](https://github.com/satwik6941/Recallr)
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔬 [SPINE-R](https://satwksivakoti.vercel.app/projects/SPINER)
-Production-grade multi-agent research system on CrewAI's hierarchical process — Claude Sonnet plans the orchestration, 9+ specialist agents research in parallel, and a fact-checker verifies claims before exporting cited reports to MD, PDF, or DOCX.
+9-agent multimodal research pipeline built on CrewAI, with multi-LLM routing across Gemini, Claude, and GPT for orchestration and specialist research tasks.
 
-`CrewAI` `Claude Sonnet` `Gemini Flash` `OpenRouter` `Flet`
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 [CodeBuddy MCP](https://satwksivakoti.vercel.app/projects/CodeBuddy)
-An MCP-powered AI dev assistant that writes and runs code in sandboxed Docker containers, manages GitHub repos, and deploys straight to Vercel and Render — all through natural conversation with Claude or OpenRouter models.
-
-`Python` `MCP` `Anthropic SDK` `Docker` `GitHub API` `Vercel`
-
-[GitHub →](https://github.com/satwik6941/CodeBuddy-MCP)
+`CrewAI` `FastAPI` `Multi-LLM Routing` `Gemini` `Claude` `GPT`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [DualFusion](https://satwksivakoti.vercel.app/projects/DualFusion)
-Advanced image-diffusion project merging two people into one cohesive AI portrait — dual custom-trained LoRA models fused through a Depth ControlNet + FLUX Dev pipeline in ComfyUI, with Florence2/SAM2 segmentation.
+### 💻 [CodeBuddy MCP](https://satwksivakoti.vercel.app/projects/CodeBuddy)
+MCP server unifying OpenAI and Claude behind a single tool-calling interface, with Docker sandboxing and GitHub API integration for safe, natural-language dev workflows.
 
-`ComfyUI` `FLUX Dev` `LoRA` `JarvisLabs` `Diffusion`
+`FastMCP` `Docker` `GitHub API` `Anthropic SDK`
 
-[LinkedIn Post →](https://www.linkedin.com/posts/satwik-sivakoti-b57449288_0to100xengineer-ai-imagegeneration-activity-7319395960114032640-BEjv)
+[GitHub →](https://github.com/satwik6941/CodeBuddy-MCP)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🥇 [ASEB Seating Arrangement](https://satwksivakoti.vercel.app/projects/ASEB)
-The first automated exam-seating system deployed at Amrita Vishwa Vidyapeetham, Bengaluru — generates room layouts, attendance sheets, and student guide PDFs, and emails every student their seat, across all 9 B.Tech programs in one run.
+Production-deployed exam seating automation at Amrita Vishwa Vidyapeetham, Bengaluru — generates room layouts, attendance sheets, and guide PDFs for 1000+ students across all B.Tech programs.
 
-`Python` `Pandas` `FPDF` `Email Automation`
+`Python` `Pandas` `Production Deployment`
 
 [Live Demo →](https://aseb-seating-arrangement.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Prompt2ML
+Agentic ML automation platform built on Google ADK — turns natural-language prompts into structured ML workflows.
+
+`Google ADK` `Agentic Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [DualFusion](https://satwksivakoti.vercel.app/projects/DualFusion)
+Personalized AI portrait generation pipeline — dual custom-trained LoRA models fused through a Depth ControlNet + FLUX Dev pipeline in ComfyUI, with Florence2 and SAM2 segmentation.
+
+`ComfyUI` `FLUX Dev` `Dual LoRA` `ControlNet` `Florence2` `SAM2`
+
+[LinkedIn Post →](https://www.linkedin.com/posts/satwik-sivakoti-b57449288_0to100xengineer-ai-imagegeneration-activity-7319395960114032640-BEjv)
 
 </td>
 </tr>
@@ -295,7 +255,7 @@ The first automated exam-seating system deployed at Amrita Vishwa Vidyapeetham, 
 
 <div align="center">
 
-Open to conversations on **agentic AI, LLM tooling, RAG architectures, or DevEx for AI products**.
+Actively looking for **full-time Generative AI Engineering, Forward Deployed Engineer, and AI roles** in Bangalore/Hyderabad. Open to conversations on **agentic AI, RAG systems, MCP servers, or LLMs**.
 
 <a href="https://satwksivakoti.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/satwik6941"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
